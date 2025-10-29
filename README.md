@@ -42,6 +42,5 @@ due/
 
 ## Créditos
 
-Desarrollado por Fundación DUE para la celebración de su 30 aniversario.
-
+Desarrollado por Ing. Marcelo Martinez Vallecillo | marktuay@gmail.com
 ---
